@@ -11,7 +11,7 @@
     "test": "node --test"
   },
   "devDependencies": {
-    "vite": "^7.1.5"
+    "vite": "^7.3.7"
   },
   "dependencies": {
     "gifuct-js": "^2.1.2",
